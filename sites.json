@@ -1189,8 +1189,8 @@
     {
         "name": "Discord",
         "email": "support@discordapp.com",
-        "difficulty": "hard",
-        "notes": "Contact Discord’s customer support and request for your account to be closed.",
+        "difficulty": "medium",
+        "notes": "Click on the button on your User Settings > My Account > "Delete Account" at the bottom. You account will be deleted in 14 days, note that your messages will be not deleted.,
         "domains": [
             "discordapp.com"
         ]
